@@ -19,15 +19,15 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top").hostname.replace(/^www\./, "")}`,
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "SpongeBob Tower Defense Wiki",
+  shortName: "SpongeBob TD",
+  logoText: "ST",
+  tagline: "Working Codes, Unit Tier Lists, Best Teams & Guides",
+  description: "Your ultimate SpongeBob Tower Defense wiki for Roblox — working codes, unit tier lists, best teams, upgrade paths and update notes.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://spongebob-tower-defense.top",
+  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://spongebob-tower-defense.top").hostname.replace(/^www\./, "")}`,
+  gameUrl: "https://www.roblox.com/games/16732694052/",
+  heroVideoId: "z3EusKMbhXE", // SpongeBob Tower Defense gameplay / progression showcase
   social: {
     discord: "https://discord.gg/roblox",
     youtube: "https://www.youtube.com/@roblox",
