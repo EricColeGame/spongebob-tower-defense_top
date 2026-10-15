@@ -1,14 +1,19 @@
-import { BookOpen, Code2, Flame, Map, Swords, Trophy, Users, Zap } from "lucide-react";
+import type { LucideIcon } from "lucide-react";
 
-export const NAVIGATION_CONFIG = [
-  { key: "races", path: "/races", icon: Users, isContentType: true },
-  { key: "bosses", path: "/bosses", icon: Swords, isContentType: true },
-  { key: "guides", path: "/guide", icon: BookOpen, isContentType: true },
-  { key: "codes", path: "/codes", icon: Code2, isContentType: true },
-  { key: "tierList", path: "/tier-list", icon: Trophy, isContentType: true },
-  { key: "maps", path: "/maps", icon: Map, isContentType: true },
-  { key: "skills", path: "/skills", icon: Flame, isContentType: true },
-  { key: "updates", path: "/updates", icon: Zap, isContentType: false },
-] as const;
+export type NavItem = {
+  /** Translation key inside the `nav` namespace. */
+  key: string;
+  /** Locale-less path of the section, e.g. `/guide`. */
+  path: string;
+  icon: LucideIcon;
+  /** Whether the section is backed by MDX content in `content/<locale>/`. */
+  isContentType: boolean;
+};
 
-export const CONTENT_TYPES = NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => item.path.replace(/^\//, ""));
+/**
+ * Navigation entries are rebuilt per project; the template ships with an empty list
+ * so no stale sections (races/bosses/guides/…) leak into the header or sidebar.
+ */
+export const NAVIGATION_CONFIG: readonly NavItem[] = [];
+
+export const CONTENT_TYPES: string[] = NAVIGATION_CONFIG.filter((item) => item.isContentType).map((item) => item.path.replace(/^\//, ""));

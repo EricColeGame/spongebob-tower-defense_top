@@ -1,9 +1,15 @@
 import { defineRouting } from "next-intl/routing";
-import { siteConfig } from "@/config/site";
+
+/**
+ * Final locale set for this site — the single source of truth.
+ * `src/i18n/request.ts`, `src/components/language-switcher.tsx` and the files in
+ * `src/locales/` must always stay in sync with this array.
+ */
+export const locales = ["en", "es", "pt-br", "id"] as const;
 
 export const routing = defineRouting({
-  locales: siteConfig.locales as unknown as string[],
-  defaultLocale: siteConfig.defaultLocale,
+  locales,
+  defaultLocale: "en",
   localePrefix: "always",
   localeDetection: false,
 });
