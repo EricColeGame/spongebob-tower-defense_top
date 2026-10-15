@@ -1,1 +1,494 @@
-{}
+{
+  "site": {
+    "name": "SpongeBob Tower Defense Wiki",
+    "shortName": "SpongeBob TD",
+    "tagline": "Códigos activos, listas de niveles de unidades, mejores equipos y guías",
+    "description": "Tu wiki definitiva de SpongeBob Tower Defense para Roblox: códigos activos, listas de niveles de unidades, mejores equipos, rutas de mejora y notas de actualización.",
+    "legalNotice": "Wiki de fans no oficial. Sin afiliación con Nickelodeon ni Roblox. Hecha por jugadores, para jugadores."
+  },
+  "nav": {
+    "menu": "Menú",
+    "toggleTheme": "Cambiar tema",
+    "guide": "Guía",
+    "codes": "Códigos",
+    "units": "Unidades",
+    "trading": "Intercambios",
+    "modes": "Modos",
+    "progression": "Progresión",
+    "updates": "Actualizaciones"
+  },
+  "home": {
+    "meta": {
+      "title": "SpongeBob Tower Defense Wiki — Códigos, lista de niveles y guías",
+      "description": "Encuentra códigos de SpongeBob Tower Defense, listas de niveles de unidades, mejores equipos, consejos de mejora y actualizaciones para invocar personajes más fuertes y superar cada oleada."
+    },
+    "hero": {
+      "eyebrow": "Estrategia de tower defense submarina",
+      "title": "SpongeBob Tower Defense Wiki",
+      "description": "Explora códigos de SpongeBob Tower Defense, listas de niveles de unidades, mejores equipos, mejoras de personajes, guías del modo historia y estrategias para superar oleadas infinitas.",
+      "stats": [
+        "682M+ visitas totales",
+        "191K+ CCU máximo",
+        "97%+ valoración de jugadores",
+        "Actualizaciones quincenales"
+      ],
+      "primaryCta": "Guía para principiantes en Roblox",
+      "secondaryCta": "Lista de niveles de unidades",
+      "tertiaryCta": "Códigos activos",
+      "videoLabel": "Vista previa del gameplay"
+    },
+    "updates": {
+      "title": "Últimas actualizaciones",
+      "browse": "Ver todas las guías",
+      "viewAll": "Ver todo"
+    },
+    "start": {
+      "eyebrow": "Empieza aquí",
+      "title": "Tu aventura en SpongeBob Tower Defense",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Guía para principiantes",
+          "description": "Aprende cómo funciona una partida: coloca unidades en los puntos de construcción a lo largo del camino enemigo, gasta dinero de la partida en mejoras y evita que cada oleada llegue a tu base."
+        },
+        {
+          "number": "2",
+          "title": "Subida de nivel más rápida",
+          "description": "Sube el nivel de tu cuenta rápidamente con los modos y rutinas que dan más XP por partida en SpongeBob Tower Defense."
+        },
+        {
+          "number": "3",
+          "title": "Mejores zonas de farmeo",
+          "description": "Acumula gemas y monedas más rápido farmeando los modos y etapas que de verdad recompensan a tu equipo actual."
+        },
+        {
+          "number": "4",
+          "title": "Todos los códigos",
+          "description": "Canjea los últimos códigos de SpongeBob Tower Defense para conseguir gemas, cofres y moneda de invocación gratis antes de que caduquen."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Páginas populares",
+      "title": "Tendencias ahora",
+      "quickLinks": [
+        "Códigos activos",
+        "Lista de niveles de unidades",
+        "Guía para principiantes",
+        "Modo infinito"
+      ],
+      "cards": [
+        {
+          "badge": "Principiante",
+          "title": "Guía para principiantes",
+          "description": "Todo lo que necesitas desde tu primera partida hasta un equipo fiable y oleadas limpias.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Códigos activos",
+          "description": "Todos los códigos activos de SpongeBob Tower Defense con sus recompensas: canjéalos antes de que caduquen.",
+          "href": "/codes/spongebob-tower-defense-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Lista de niveles de unidades",
+          "description": "Todas las unidades de Fondo de Bikini clasificadas por rol y fuerza para cada etapa de progresión.",
+          "href": "/units/spongebob-tower-defense-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Mejores unidades",
+          "description": "Las torres que vale la pena invocar y mejorar para jefes, enjambres y apoyo.",
+          "href": "/units/spongebob-tower-defense-best-units"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Todas las unidades",
+          "description": "Directorio completo de personajes con rarezas, tipos de ataque y roles de equipo.",
+          "href": "/units/spongebob-tower-defense-all-units"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de novato a experto",
+          "description": "Una hoja de ruta de progresión por fases, desde tu primera oleada hasta el endgame.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro"
+        },
+        {
+          "badge": "Popular",
+          "title": "Guía de farmeo de gemas",
+          "description": "Rutinas repetibles para obtener gemas de forma constante y financiar cada invocación.",
+          "href": "/progression/spongebob-tower-defense-gem-farm"
+        },
+        {
+          "badge": "Actualizado",
+          "title": "Modo infinito",
+          "description": "Mejores roles de equipo, tácticas de colocación y prioridades de mejora para runs profundas.",
+          "href": "/modes/spongebob-tower-defense-endless-mode"
+        },
+        {
+          "badge": "Nuevo",
+          "title": "Guía de actualizaciones",
+          "description": "Últimas notas de parche, contenido nuevo y qué cambió para armar equipos.",
+          "href": "/updates/spongebob-tower-defense-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "¿Qué es SpongeBob Tower Defense?",
+      "paragraphs": [
+        "SpongeBob Tower Defense es un juego de defensa por oleadas de Roblox en el que coleccionas personajes de Fondo de Bikini como unidades, los colocas en puntos de construcción a lo largo de un camino enemigo fijo y gastas dinero de la partida para mejorarlos antes de que las oleadas lleguen a tu base. Cada partida alimenta un bucle de colección más largo: invocas unidades nuevas entre partidas y luego tiras de ese plantel para formar un equipo más fuerte en la siguiente etapa.",
+        "El juego combina estrategia de tower defense con colección de personajes. Los capítulos de historia te ofrecen oleadas ajustadas y peleas de jefe guionizadas, mientras que el modo infinito escala enemigos sin parar y premia a los equipos que cubren daño, control de masas, economía y apoyo en lugar de acumular un solo rol. Las gemas bloquean las mayores mejoras de cuenta, así que las decisiones de farmeo e invocación importan tanto como la colocación dentro de cada partida."
+      ],
+      "stats": [
+        {
+          "label": "Plataforma",
+          "value": "Roblox"
+        },
+        {
+          "label": "Género",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Moneda",
+          "value": "Gemas y monedas"
+        },
+        {
+          "label": "Modos de juego",
+          "value": "Historia e infinito"
+        },
+        {
+          "label": "Roles de unidades",
+          "value": "Daño, apoyo, economía"
+        },
+        {
+          "label": "Contenido en vivo",
+          "value": "Misiones, incursiones y eventos"
+        }
+      ],
+      "cta": "Explora todas las guías"
+    },
+    "explore": {
+      "title": "Explora SpongeBob Tower Defense Wiki",
+      "description": "Todo lo que necesitas para superar más oleadas: códigos activos, listas de niveles de unidades, guías para principiantes, rutas de farmeo y notas de actualización de SpongeBob Tower Defense.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Códigos de SpongeBob Tower Defense",
+          "description": "Todos los códigos activos y caducados de SpongeBob Tower Defense, qué recompensa da cada uno y los pasos para canjear gemas y cofres gratis.",
+          "href": "/codes/spongebob-tower-defense-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "BEGINNINGS2",
+              "detail": "Código nuevo — recompensas gratis",
+              "badge": "Nuevo"
+            },
+            {
+              "label": "GetGudKid",
+              "detail": "Código nuevo — recompensas gratis",
+              "badge": "Nuevo"
+            },
+            {
+              "label": "CHALLENGEWON",
+              "detail": "Código nuevo — recompensas gratis",
+              "badge": "Nuevo"
+            },
+            {
+              "label": "QUESTS4LIFE",
+              "detail": "Código activo — recompensas gratis",
+              "badge": "Activo"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Lista de niveles de SpongeBob Tower Defense",
+          "description": "Clasifica cada unidad de Fondo de Bikini por fuerza general, daño, alcance y valor de apoyo para saber qué torres vale la pena invocar y mejorar.",
+          "href": "/units/spongebob-tower-defense-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Domina casi todos los modos: arma tu equipo en torno a estas unidades"
+            },
+            {
+              "label": "A",
+              "detail": "Excelente en casi todas las situaciones, con pocas debilidades"
+            },
+            {
+              "label": "B",
+              "detail": "Sólidas y fiables, pero necesitan apoyo para destacar"
+            },
+            {
+              "label": "C",
+              "detail": "Elecciones situacionales que destacan en el mapa adecuado"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Guía para principiantes de SpongeBob Tower Defense",
+          "description": "Aprende el bucle central del tower defense (colocar unidades, gastar dinero de la partida en mejoras y defenderte de oleadas más duras) con una ruta paso a paso para el juego temprano.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Completa la etapa inicial y los tutoriales para aprender los controles"
+            },
+            {
+              "label": "2",
+              "detail": "Elige una unidad de daño principal y dedica a ella tus primeras mejoras"
+            },
+            {
+              "label": "3",
+              "detail": "Estudia el camino enemigo para encontrar los mejores puntos de construcción"
+            },
+            {
+              "label": "4",
+              "detail": "Gasta tu primer dinero en una o dos mejoras clave"
+            },
+            {
+              "label": "5",
+              "detail": "Ahorra para la primera oleada de jefe en vez de construir de más"
+            },
+            {
+              "label": "6",
+              "detail": "Usa la moneda de invocación sobrante tras la partida para ampliar tu plantel"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Mejores unidades de SpongeBob Tower Defense",
+          "description": "Unidades recomendadas para la progresión temprana, peleas de jefe, control de masas y apoyo, con las prioridades de mejora que hacen funcionar cada elección.",
+          "href": "/units/spongebob-tower-defense-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Daño",
+              "detail": "Atacantes principales que se encargan de jefes y oleadas tardías resistentes"
+            },
+            {
+              "label": "Apoyo",
+              "detail": "Unidades de mejora que aumentan el daño y el alcance de las torres cercanas"
+            },
+            {
+              "label": "Economía",
+              "detail": "Generadores de dinero que financian el resto de mejoras de la partida"
+            },
+            {
+              "label": "Control",
+              "detail": "Ralentizaciones y aturdimientos que mantienen a los enemigos en tu zona de muerte"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Unidades y personajes de SpongeBob Tower Defense",
+          "description": "Un directorio completo de los personajes de Fondo de Bikini usados como unidades, con sus rarezas, tipos de ataque y roles en el equipo.",
+          "href": "/units/spongebob-tower-defense-all-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rareza",
+              "detail": "Niveles de unidad común, rara, épica, legendaria, mítica y secreta"
+            },
+            {
+              "label": "Roles",
+              "detail": "Objetivo único, daño en área, control de masas, economía y apoyo"
+            },
+            {
+              "label": "Ataque",
+              "detail": "Tipos de ataque cuerpo a cuerpo, a distancia e híbridos en todo el plantel"
+            },
+            {
+              "label": "Plantel",
+              "detail": "SpongeBob, Patricio, Arenita, Calamardo, Plankton y más"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Guía de progresión de SpongeBob Tower Defense",
+          "description": "Cómo ganar recursos, subir de nivel las unidades y aumentar la fuerza de tu equipo en el contenido temprano, medio y tardío.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Completa capítulos de historia para desbloquear modos, unidades y recompensas iniciales"
+            },
+            {
+              "label": "2",
+              "detail": "Crea una rutina de farmeo de gemas para que las invocaciones nunca se detengan"
+            },
+            {
+              "label": "3",
+              "detail": "Sube de nivel y mejora una unidad central antes de repartir recursos"
+            },
+            {
+              "label": "4",
+              "detail": "Prueba suerte con rasgos que multiplican el rendimiento de tus mejores torres"
+            },
+            {
+              "label": "5",
+              "detail": "Haz prestigio para reiniciar el progreso a cambio de bonificaciones permanentes de cuenta"
+            },
+            {
+              "label": "6",
+              "detail": "Enfréntate a incursiones, peleas de jefe y eventos para recompensas de endgame"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Modos de juego de SpongeBob Tower Defense",
+          "description": "Compara el modo historia, el modo infinito, las incursiones y los desafíos especiales para ver qué recompensa cada uno y cuál encaja con tu equipo actual.",
+          "href": "/modes/spongebob-tower-defense-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Historia",
+              "detail": "Capítulos fijos con oleadas ajustadas a mano y peleas de jefe guionizadas"
+            },
+            {
+              "label": "Infinito",
+              "detail": "Partidas abiertas donde las estadísticas enemigas escalan con la profundidad"
+            },
+            {
+              "label": "Incursiones",
+              "detail": "Desafíos estilo cooperativo, incluida la incursión de Davy Jones"
+            },
+            {
+              "label": "Rogue",
+              "detail": "Modo por partidas que pone a prueba builds nuevas con opciones limitadas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Actualizaciones y eventos de SpongeBob Tower Defense",
+          "description": "Sigue los parches oficiales, las unidades nuevas, los cambios de equilibrio y los eventos por tiempo limitado, y mira cómo cada actualización cambia la creación de equipos.",
+          "href": "/updates/spongebob-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Parches",
+              "detail": "Notas de parche con cambios de equilibrio en unidades y modos"
+            },
+            {
+              "label": "Unidades nuevas",
+              "detail": "Torres y banners nuevos añadidos en actualizaciones recientes"
+            },
+            {
+              "label": "Eventos",
+              "detail": "Recompensas de eventos por tiempo limitado como la búsqueda del huevo"
+            },
+            {
+              "label": "Códigos",
+              "detail": "Códigos de canje nuevos publicados junto con las actualizaciones"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Preguntas frecuentes",
+      "description": "Respuestas rápidas a las preguntas más comunes sobre SpongeBob Tower Defense.",
+      "items": [
+        {
+          "question": "¿Qué es SpongeBob Tower Defense?",
+          "answer": "SpongeBob Tower Defense es un juego de defensa por oleadas de Roblox en el que coleccionas personajes de Fondo de Bikini como unidades, los colocas en puntos de construcción a lo largo de un camino enemigo fijo y los mejoras con dinero de la partida para evitar que cada oleada llegue a tu base. Entre partidas invocas unidades nuevas para formar un plantel más fuerte."
+        },
+        {
+          "question": "¿Cómo canjeo los códigos de SpongeBob Tower Defense?",
+          "answer": "Alcanza el nivel 10, abre el botón de Códigos en el lado izquierdo de la pantalla y pega un código en el cuadro Enter Code Here. Los códigos de SpongeBob Tower Defense distinguen mayúsculas y minúsculas, así que cópialos exactamente como se publican."
+        },
+        {
+          "question": "¿Qué unidades deberían usar los principiantes en SpongeBob Tower Defense?",
+          "answer": "Empieza con una unidad de daño principal fiable y mejórala antes de repartir dinero por todo el tablero. Añade unidades de economía y control de masas cuando tu daño central sea estable, y luego llena los puntos de construcción restantes con apoyo."
+        },
+        {
+          "question": "¿Cuál es la mejor forma de farmear gemas en SpongeBob Tower Defense?",
+          "answer": "Acumula fuentes repetibles en lugar de perseguir una sola etapa. Completa capítulos de historia para recompensas iniciales, juega modos eficientes para ingresos constantes y canjea códigos de SpongeBob Tower Defense para conseguir gemas y cofres gratis."
+        },
+        {
+          "question": "¿Hay un modo infinito en SpongeBob Tower Defense?",
+          "answer": "Sí. El modo infinito no deja de generar oleadas con estadísticas enemigas que escalan continuamente, así que premia a los equipos que cubren daño, control de masas, economía y apoyo en lugar de acumular un solo rol."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "¿Listo para dominar SpongeBob Tower Defense?",
+      "description": "Desde tu primera oleada en el modo historia hasta las runs infinitas del endgame, nuestra wiki comunitaria te cubre con códigos y guías gratis y actualizados.",
+      "primary": "Lee la guía para principiantes",
+      "secondary": "Juega en Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Guías de SpongeBob Tower Defense",
+    "overviewDescription": "Guías paso a paso de SpongeBob Tower Defense que cubren la ruta para principiantes, los farmeos de XP y gemas más rápidos, los espacios de mascota, los dados premium y el grind de prestigio."
+  },
+  "codes": {
+    "overviewTitle": "Códigos de SpongeBob Tower Defense",
+    "overviewDescription": "Todos los códigos activos de SpongeBob Tower Defense con su recompensa, además de los pasos de canje y soluciones para los códigos que no se canjean."
+  },
+  "units": {
+    "overviewTitle": "Unidades y listas de niveles de SpongeBob Tower Defense",
+    "overviewDescription": "La lista completa de unidades de SpongeBob Tower Defense, las mejores unidades, los mejores rasgos, las unidades secretas y las listas de niveles de mascotas clasificadas por rol y fuerza."
+  },
+  "trading": {
+    "overviewTitle": "Intercambios y valores de SpongeBob Tower Defense",
+    "overviewDescription": "Cómo se fijan los valores en SpongeBob Tower Defense, cómo usar las calculadoras de intercambio con seguridad y dónde intercambia la comunidad."
+  },
+  "modes": {
+    "overviewTitle": "Modos de juego de SpongeBob Tower Defense",
+    "overviewDescription": "Modo infinito, modo Rogue, incursiones y peleas de jefe: qué exige cada modo de SpongeBob Tower Defense y cómo superarlo."
+  },
+  "progression": {
+    "overviewTitle": "Progresión en SpongeBob Tower Defense",
+    "overviewDescription": "Farmeos de gemas, recompensas AFK, misiones, la búsqueda del huevo y niveles de prestigio: los sistemas de progresión a largo plazo de SpongeBob Tower Defense."
+  },
+  "updates": {
+    "overviewTitle": "Actualizaciones y eventos de SpongeBob Tower Defense",
+    "overviewDescription": "Las últimas notas de actualización de SpongeBob Tower Defense, los próximos parches, los eventos nuevos y cómo distinguir filtraciones reales de rumores."
+  },
+  "shared": {
+    "wikiNavigation": "Navegación del wiki",
+    "activeCodes": "Códigos activos",
+    "updated": "Actualizado",
+    "viewAllCodes": "Ver todos los códigos",
+    "playOnRoblox": "Juega en Roblox",
+    "inThisSection": "En esta sección",
+    "tableOfContents": "Índice",
+    "nextSteps": "Próximos pasos",
+    "needHelp": "¿Necesitas ayuda?",
+    "relatedReading": "Lecturas relacionadas",
+    "relatedGuides": "Guías relacionadas",
+    "readMore": "Leer más",
+    "officialMedia": "Medios oficiales",
+    "home": "Inicio",
+    "noGuidesAvailable": "Aún no hay guías disponibles. ¡Vuelve pronto!"
+  },
+  "footer": {
+    "aboutTitle": "SpongeBob Tower Defense Wiki",
+    "about": "SpongeBob Tower Defense Wiki es un centro de guías independiente hecho por fans que cubre códigos, listas de niveles de unidades, mejores equipos, peleas de jefe, incursiones y consejos de progresión tanto para jugadores nuevos como veteranos.",
+    "quickLinks": "Enlaces rápidos",
+    "guides": "Guías",
+    "legal": "Legal",
+    "copyright": "2026 SpongeBob Tower Defense Wiki. Sin afiliación con Nickelodeon ni Roblox.",
+    "description": "Juego de tower defense de Roblox. Colecciona unidades, forma el mejor equipo y supera cada oleada.",
+    "playGame": "Juega a SpongeBob Tower Defense en Roblox",
+    "officialDiscord": "Discord oficial",
+    "officialYoutube": "YouTube oficial",
+    "vvBuilder": "Lista de niveles de unidades",
+    "beginnerGuide": "Guía para principiantes",
+    "raceGuides": "Guías de unidades",
+    "bossGuides": "Modos de juego e incursiones",
+    "buildGuide": "Intercambios y valores",
+    "privacyPolicy": "Política de privacidad",
+    "termsOfService": "Términos de servicio"
+  }
+}

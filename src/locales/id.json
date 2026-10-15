@@ -1,1 +1,494 @@
-{}
+{
+  "site": {
+    "name": "SpongeBob Tower Defense Wiki",
+    "shortName": "SpongeBob TD",
+    "tagline": "Kode Berfungsi, Tier List Unit, Tim Terbaik & Panduan",
+    "description": "Wiki SpongeBob Tower Defense terlengkap untuk Roblox — kode berfungsi, tier list unit, tim terbaik, jalur upgrade, dan catatan update.",
+    "legalNotice": "Wiki penggemar tidak resmi. Tidak berafiliasi dengan Nickelodeon atau Roblox. Dibuat oleh pemain, untuk pemain."
+  },
+  "nav": {
+    "menu": "Menu",
+    "toggleTheme": "Ganti tema",
+    "guide": "Panduan",
+    "codes": "Kode",
+    "units": "Unit",
+    "trading": "Trading",
+    "modes": "Mode",
+    "progression": "Progresi",
+    "updates": "Update"
+  },
+  "home": {
+    "meta": {
+      "title": "SpongeBob Tower Defense Wiki — Kode, Tier List & Panduan",
+      "description": "Temukan kode SpongeBob Tower Defense, tier list unit, susunan tim terbaik, tips upgrade, dan update game untuk memanggil karakter lebih kuat dan melewati setiap wave."
+    },
+    "hero": {
+      "eyebrow": "Strategi Tower Defense Bawah Laut",
+      "title": "SpongeBob Tower Defense Wiki",
+      "description": "Jelajahi kode SpongeBob Tower Defense, tier list unit, susunan tim terbaik, upgrade karakter, panduan story mode, dan strategi untuk melewati endless wave.",
+      "stats": [
+        "682M+ Total Kunjungan",
+        "191K+ Puncak CCU",
+        "97%+ Rating Pemain",
+        "Update Dua Mingguan"
+      ],
+      "primaryCta": "Panduan Pemula Roblox",
+      "secondaryCta": "Tier List Unit",
+      "tertiaryCta": "Kode Aktif",
+      "videoLabel": "Pratinjau Gameplay"
+    },
+    "updates": {
+      "title": "Update Terbaru",
+      "browse": "Jelajahi Semua Panduan",
+      "viewAll": "Lihat Semua"
+    },
+    "start": {
+      "eyebrow": "Mulai di Sini",
+      "title": "Perjalanan SpongeBob Tower Defense Anda",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Panduan Pemula",
+          "description": "Pelajari cara kerja satu pertandingan: tempatkan unit di titik build sepanjang jalur musuh, belanjakan uang dalam pertandingan untuk upgrade, dan cegah setiap wave mencapai markas Anda."
+        },
+        {
+          "number": "2",
+          "title": "Leveling Tercepat",
+          "description": "Naikkan level akun Anda dengan cepat lewat mode dan rutinitas yang memberi XP terbanyak per run di SpongeBob Tower Defense."
+        },
+        {
+          "number": "3",
+          "title": "Tempat Farming Terbaik",
+          "description": "Kumpulkan Permata dan koin lebih cepat dengan farming mode dan stage yang benar-benar menguntungkan tim Anda saat ini."
+        },
+        {
+          "number": "4",
+          "title": "Semua Kode",
+          "description": "Tukarkan kode SpongeBob Tower Defense terbaru untuk Permata, peti, dan mata uang summon gratis sebelum kedaluwarsa."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Halaman Populer",
+      "title": "Sedang Tren",
+      "quickLinks": [
+        "Kode Berfungsi",
+        "Tier List Unit",
+        "Panduan Pemula",
+        "Mode Endless"
+      ],
+      "cards": [
+        {
+          "badge": "Pemula",
+          "title": "Panduan Pemula",
+          "description": "Semua yang Anda butuhkan dari run pertama hingga tim andal dan penyelesaian wave yang bersih.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Kode Aktif",
+          "description": "Semua kode SpongeBob Tower Defense yang berfungsi beserta hadiahnya — tukarkan sebelum kedaluwarsa.",
+          "href": "/codes/spongebob-tower-defense-codes"
+        },
+        {
+          "badge": "Populer",
+          "title": "Tier List Unit",
+          "description": "Semua unit Bikini Bottom diperingkat berdasarkan peran dan kekuatan untuk setiap tahap progresi.",
+          "href": "/units/spongebob-tower-defense-tier-list"
+        },
+        {
+          "badge": "Populer",
+          "title": "Unit Terbaik",
+          "description": "Tower yang layak di-summon dan di-upgrade untuk boss, gerombolan musuh, dan support.",
+          "href": "/units/spongebob-tower-defense-best-units"
+        },
+        {
+          "badge": "Baru",
+          "title": "Semua Unit",
+          "description": "Direktori roster lengkap dengan rarity, tipe serangan, dan peran tim.",
+          "href": "/units/spongebob-tower-defense-all-units"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Noob to Pro",
+          "description": "Peta progresi bertahap dari wave pertama hingga endgame.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro"
+        },
+        {
+          "badge": "Populer",
+          "title": "Panduan Farm Permata",
+          "description": "Rutinitas berulang untuk pemasukan Permata yang stabil demi membiayai setiap summon.",
+          "href": "/progression/spongebob-tower-defense-gem-farm"
+        },
+        {
+          "badge": "Diperbarui",
+          "title": "Mode Endless",
+          "description": "Peran tim terbaik, taktik penempatan, dan prioritas upgrade untuk run panjang.",
+          "href": "/modes/spongebob-tower-defense-endless-mode"
+        },
+        {
+          "badge": "Baru",
+          "title": "Panduan Update",
+          "description": "Catatan patch terbaru, konten baru, dan apa yang berubah untuk menyusun tim.",
+          "href": "/updates/spongebob-tower-defense-update"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Apa Itu SpongeBob Tower Defense?",
+      "paragraphs": [
+        "SpongeBob Tower Defense adalah game pertahanan wave di Roblox tempat Anda mengumpulkan karakter Bikini Bottom sebagai unit, menempatkannya di titik build sepanjang jalur musuh tetap, dan membelanjakan uang dalam pertandingan untuk meng-upgrade mereka sebelum wave mencapai markas Anda. Setiap pertandingan menopang loop koleksi yang lebih panjang: Anda memanggil unit baru di antara run, lalu memakai roster itu untuk menyusun tim lebih kuat di stage berikutnya.",
+        "Game ini memadukan strategi tower defense dengan koleksi karakter. Babak cerita menyajikan wave yang disesuaikan dan pertarungan boss terskrip, sementara Mode Endless terus menaikkan statistik musuh dan menghargai tim yang mencakup damage, crowd control, ekonomi, dan support alih-alih menumpuk satu peran. Permata menjadi kunci upgrade akun terbesar, jadi keputusan farming dan summon sama pentingnya dengan penempatan dalam satu run."
+      ],
+      "stats": [
+        {
+          "label": "Platform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Tower Defense"
+        },
+        {
+          "label": "Mata Uang",
+          "value": "Permata & Koin"
+        },
+        {
+          "label": "Mode Permainan",
+          "value": "Story & Endless"
+        },
+        {
+          "label": "Peran Unit",
+          "value": "Damage, Support, Ekonomi"
+        },
+        {
+          "label": "Konten Live",
+          "value": "Quest, Raid & Event"
+        }
+      ],
+      "cta": "Jelajahi Semua Panduan"
+    },
+    "explore": {
+      "title": "Jelajahi SpongeBob Tower Defense Wiki",
+      "description": "Semua yang Anda butuhkan untuk melewati lebih banyak wave: kode berfungsi, tier list unit, panduan pemula, rute farming, dan catatan update SpongeBob Tower Defense.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "Kode SpongeBob Tower Defense",
+          "description": "Semua kode SpongeBob Tower Defense yang berfungsi dan kedaluwarsa, hadiah tiap kode, dan langkah penukaran untuk klaim Permata serta peti gratis.",
+          "href": "/codes/spongebob-tower-defense-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "BEGINNINGS2",
+              "detail": "Kode baru — hadiah gratis",
+              "badge": "Baru"
+            },
+            {
+              "label": "GetGudKid",
+              "detail": "Kode baru — hadiah gratis",
+              "badge": "Baru"
+            },
+            {
+              "label": "CHALLENGEWON",
+              "detail": "Kode baru — hadiah gratis",
+              "badge": "Baru"
+            },
+            {
+              "label": "QUESTS4LIFE",
+              "detail": "Kode berfungsi — hadiah gratis",
+              "badge": "Berfungsi"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "Tier List SpongeBob Tower Defense",
+          "description": "Peringkat setiap unit Bikini Bottom berdasarkan kekuatan keseluruhan, damage, jangkauan, dan nilai support agar Anda tahu tower mana yang layak di-summon dan di-upgrade.",
+          "href": "/units/spongebob-tower-defense-tier-list",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Mendominasi hampir semua mode — susun tim Anda di sekitar unit ini"
+            },
+            {
+              "label": "A",
+              "detail": "Sangat baik di sebagian besar situasi dengan sedikit kelemahan"
+            },
+            {
+              "label": "B",
+              "detail": "Solid dan andal, tetapi butuh support agar bersinar"
+            },
+            {
+              "label": "C",
+              "detail": "Pilihan situasional yang bersinar di map yang tepat"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "Panduan Pemula SpongeBob Tower Defense",
+          "description": "Pelajari loop inti tower defense — menempatkan unit, membelanjakan uang dalam pertandingan untuk upgrade, dan bertahan dari wave yang lebih kuat — lewat jalur awal game langkah demi langkah.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Selesaikan stage pembuka dan tutorial untuk mempelajari kontrol"
+            },
+            {
+              "label": "2",
+              "detail": "Pilih satu unit damage utama dan fokuskan upgrade awal padanya"
+            },
+            {
+              "label": "3",
+              "detail": "Pelajari jalur musuh untuk menemukan titik build terkuat"
+            },
+            {
+              "label": "4",
+              "detail": "Belanjakan uang pertama Anda untuk satu atau dua upgrade kunci"
+            },
+            {
+              "label": "5",
+              "detail": "Menabung untuk wave boss pertama alih-alih membangun berlebihan"
+            },
+            {
+              "label": "6",
+              "detail": "Gunakan sisa mata uang summon setelah run untuk memperbesar roster Anda"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "Unit Terbaik SpongeBob Tower Defense",
+          "description": "Unit yang direkomendasikan untuk progresi awal, pertarungan boss, crowd control, dan support, lengkap dengan prioritas upgrade agar tiap pilihan efektif.",
+          "href": "/units/spongebob-tower-defense-best-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Damage",
+              "detail": "Dealer damage utama yang menangani boss dan wave akhir yang tebal"
+            },
+            {
+              "label": "Support",
+              "detail": "Unit buff yang menaikkan damage dan jangkauan tower di sekitarnya"
+            },
+            {
+              "label": "Ekonomi",
+              "detail": "Penghasil uang yang membiayai upgrade lain dalam run"
+            },
+            {
+              "label": "Kontrol",
+              "detail": "Slow dan stun yang menahan musuh di zona kill Anda"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "Unit dan Karakter SpongeBob Tower Defense",
+          "description": "Direktori lengkap karakter Bikini Bottom yang dipakai sebagai unit, mencakup rarity, tipe serangan, dan peran dalam tim.",
+          "href": "/units/spongebob-tower-defense-all-units",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Rarity",
+              "detail": "Tingkat unit Common, Rare, Epic, Legendary, Mythic, dan Secret"
+            },
+            {
+              "label": "Peran",
+              "detail": "Single-target, area damage, crowd control, ekonomi, dan support"
+            },
+            {
+              "label": "Serangan",
+              "detail": "Tipe serangan melee, ranged, dan hybrid di seluruh roster"
+            },
+            {
+              "label": "Roster",
+              "detail": "SpongeBob, Patrick, Sandy, Squidward, Plankton, dan lainnya"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "Panduan Progresi SpongeBob Tower Defense",
+          "description": "Cara mendapatkan resource, menaikkan level unit, dan memperkuat tim Anda di konten awal, menengah, dan akhir.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Selesaikan bab cerita untuk membuka mode, unit, dan hadiah awal"
+            },
+            {
+              "label": "2",
+              "detail": "Buat rutinitas farming Permata agar summon tidak pernah terhenti"
+            },
+            {
+              "label": "3",
+              "detail": "Naikkan level dan upgrade satu unit inti sebelum menyebar resource"
+            },
+            {
+              "label": "4",
+              "detail": "Roll trait yang melipatgandakan output tower terbaik Anda"
+            },
+            {
+              "label": "5",
+              "detail": "Lakukan prestige untuk mereset progres demi bonus akun permanen"
+            },
+            {
+              "label": "6",
+              "detail": "Hadapi raid, pertarungan boss, dan event untuk hadiah endgame"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "Mode Permainan SpongeBob Tower Defense",
+          "description": "Bandingkan Story Mode, Endless Mode, raid, dan tantangan khusus untuk melihat hadiah masing-masing dan mana yang cocok dengan tim Anda.",
+          "href": "/modes/spongebob-tower-defense-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Bab tetap dengan wave yang disesuaikan dan pertarungan boss terskrip"
+            },
+            {
+              "label": "Endless",
+              "detail": "Run terbuka di mana statistik musuh terus naik seiring kedalaman"
+            },
+            {
+              "label": "Raid",
+              "detail": "Tantangan bergaya co-op, termasuk raid Davy Jones"
+            },
+            {
+              "label": "Rogue",
+              "detail": "Mode berbasis run yang menguji build baru dengan pilihan terbatas"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "Update dan Event SpongeBob Tower Defense",
+          "description": "Pantau patch resmi, unit baru, perubahan balance, dan event terbatas, serta lihat bagaimana tiap update mengubah penyusunan tim.",
+          "href": "/updates/spongebob-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patch",
+              "detail": "Catatan patch dengan perubahan balance pada unit dan mode"
+            },
+            {
+              "label": "Unit Baru",
+              "detail": "Tower dan banner baru yang ditambahkan di update terbaru"
+            },
+            {
+              "label": "Event",
+              "detail": "Hadiah event terbatas seperti Egg Hunt"
+            },
+            {
+              "label": "Kode",
+              "detail": "Kode tukar baru yang dirilis bersama update"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "Pertanyaan yang Sering Diajukan",
+      "description": "Jawaban singkat untuk pertanyaan paling umum tentang SpongeBob Tower Defense.",
+      "items": [
+        {
+          "question": "Apa Itu SpongeBob Tower Defense?",
+          "answer": "SpongeBob Tower Defense adalah game pertahanan wave di Roblox tempat Anda mengumpulkan karakter Bikini Bottom sebagai unit, menempatkannya di titik build sepanjang jalur musuh tetap, dan meng-upgrade mereka dengan uang dalam pertandingan agar setiap wave tidak mencapai markas Anda. Di antara run, Anda memanggil unit baru untuk membangun roster yang lebih kuat."
+        },
+        {
+          "question": "Bagaimana cara menukarkan kode SpongeBob Tower Defense?",
+          "answer": "Capai Level 10, buka tombol Codes di sisi kiri layar, dan tempelkan kode ke kotak Enter Code Here. Kode SpongeBob Tower Defense peka huruf besar-kecil, jadi salin persis seperti yang dipublikasikan."
+        },
+        {
+          "question": "Unit apa yang sebaiknya dipakai pemula di SpongeBob Tower Defense?",
+          "answer": "Mulai dengan satu unit damage utama yang andal dan upgrade sebelum menyebar uang ke seluruh papan. Tambahkan unit ekonomi dan crowd control setelah damage inti stabil, lalu isi titik build tersisa dengan support."
+        },
+        {
+          "question": "Apa cara terbaik farming Permata di SpongeBob Tower Defense?",
+          "answer": "Tumpuk sumber berulang alih-alih mengejar satu stage. Selesaikan bab cerita untuk hadiah pertama, jalankan mode efisien untuk pemasukan stabil, dan tukarkan kode SpongeBob Tower Defense untuk Permata serta peti gratis."
+        },
+        {
+          "question": "Apakah ada Endless Mode di SpongeBob Tower Defense?",
+          "answer": "Ya. Endless Mode terus memunculkan wave dengan statistik musuh yang naik terus, jadi mode ini menghargai tim yang mencakup damage, crowd control, ekonomi, dan support alih-alih menumpuk satu peran."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Siap Menguasai SpongeBob Tower Defense?",
+      "description": "Dari wave pertama Anda di Story Mode hingga endless run endgame, wiki komunitas kami siap membantu dengan kode dan panduan gratis yang selalu diperbarui.",
+      "primary": "Baca Panduan Pemula",
+      "secondary": "Main di Roblox"
+    }
+  },
+  "guide": {
+    "overviewTitle": "Panduan SpongeBob Tower Defense",
+    "overviewDescription": "Panduan langkah demi langkah SpongeBob Tower Defense yang mencakup rute pemula, farm XP dan Permata tercepat, slot pet, dadu premium, dan grind prestige."
+  },
+  "codes": {
+    "overviewTitle": "Kode SpongeBob Tower Defense",
+    "overviewDescription": "Semua kode SpongeBob Tower Defense yang berfungsi beserta hadiahnya, plus langkah penukaran dan solusi untuk kode yang gagal ditukar."
+  },
+  "units": {
+    "overviewTitle": "Unit & Tier List SpongeBob Tower Defense",
+    "overviewDescription": "Daftar lengkap unit SpongeBob Tower Defense, unit terbaik, trait terbaik, unit rahasia, dan tier list pet yang diperingkat berdasarkan peran dan kekuatan."
+  },
+  "trading": {
+    "overviewTitle": "Trading & Nilai SpongeBob Tower Defense",
+    "overviewDescription": "Bagaimana nilai SpongeBob Tower Defense ditentukan, cara memakai kalkulator trade dengan aman, dan tempat komunitas melakukan trade."
+  },
+  "modes": {
+    "overviewTitle": "Mode Permainan SpongeBob Tower Defense",
+    "overviewDescription": "Mode Endless, mode Rogue, Raid, dan pertarungan boss — apa yang dituntut setiap mode SpongeBob Tower Defense dan cara menaklukkannya."
+  },
+  "progression": {
+    "overviewTitle": "Progresi SpongeBob Tower Defense",
+    "overviewDescription": "Farm Permata, hadiah AFK, quest, Egg Hunt, dan level Prestige — sistem progresi jangka panjang SpongeBob Tower Defense."
+  },
+  "updates": {
+    "overviewTitle": "Update & Event SpongeBob Tower Defense",
+    "overviewDescription": "Catatan update SpongeBob Tower Defense terbaru, patch mendatang, event baru, dan cara membedakan bocoran asli dari rumor."
+  },
+  "shared": {
+    "wikiNavigation": "Navigasi Wiki",
+    "activeCodes": "Kode Aktif",
+    "updated": "Diperbarui",
+    "viewAllCodes": "Lihat semua kode",
+    "playOnRoblox": "Main di Roblox",
+    "inThisSection": "Di bagian ini",
+    "tableOfContents": "Daftar Isi",
+    "nextSteps": "Langkah Selanjutnya",
+    "needHelp": "Butuh Bantuan?",
+    "relatedReading": "Bacaan Terkait",
+    "relatedGuides": "Panduan Terkait",
+    "readMore": "Baca selengkapnya",
+    "officialMedia": "Media resmi",
+    "home": "Beranda",
+    "noGuidesAvailable": "Belum ada panduan tersedia. Cek lagi nanti!"
+  },
+  "footer": {
+    "aboutTitle": "SpongeBob Tower Defense Wiki",
+    "about": "SpongeBob Tower Defense Wiki adalah pusat panduan independen buatan penggemar yang mencakup kode, tier list unit, tim terbaik, pertarungan boss, raid, dan tips progresi untuk pemain baru maupun veteran.",
+    "quickLinks": "Tautan Cepat",
+    "guides": "Panduan",
+    "legal": "Legal",
+    "copyright": "2026 SpongeBob Tower Defense Wiki. Tidak berafiliasi dengan Nickelodeon atau Roblox.",
+    "description": "Game tower defense Roblox. Kumpulkan unit, susun tim terbaik, dan lewati setiap wave.",
+    "playGame": "Mainkan SpongeBob Tower Defense di Roblox",
+    "officialDiscord": "Discord Resmi",
+    "officialYoutube": "YouTube Resmi",
+    "vvBuilder": "Tier List Unit",
+    "beginnerGuide": "Panduan Pemula",
+    "raceGuides": "Panduan Unit",
+    "bossGuides": "Mode Permainan & Raid",
+    "buildGuide": "Trading & Nilai",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Ketentuan Layanan"
+  }
+}
