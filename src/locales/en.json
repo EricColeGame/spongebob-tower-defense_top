@@ -8,7 +8,14 @@
   },
   "nav": {
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "codes": "Codes",
+    "units": "Units",
+    "trading": "Trading",
+    "modes": "Modes",
+    "progression": "Progression",
+    "updates": "Updates"
   },
   "home": {
     "meta": {
@@ -420,7 +427,34 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "SpongeBob Tower Defense Guides",
+    "overviewDescription": "Step-by-step SpongeBob Tower Defense guides covering the beginner route, the fastest XP and Gem farms, pet slots, premium dice, and the Prestige grind."
+  },
+  "codes": {
+    "overviewTitle": "SpongeBob Tower Defense Codes",
+    "overviewDescription": "Every working SpongeBob Tower Defense code with its reward, plus redemption steps and fixes for codes that will not redeem."
+  },
+  "units": {
+    "overviewTitle": "SpongeBob Tower Defense Units & Tier Lists",
+    "overviewDescription": "The full SpongeBob Tower Defense unit list, best units, best traits, secret units, and pet tier lists ranked by role and strength."
+  },
+  "trading": {
+    "overviewTitle": "SpongeBob Tower Defense Trading & Values",
+    "overviewDescription": "How SpongeBob Tower Defense values are set, how to use trade calculators safely, and where the community trades."
+  },
+  "modes": {
+    "overviewTitle": "SpongeBob Tower Defense Game Modes",
+    "overviewDescription": "Endless mode, Rogue mode, Raids, and boss battles — what each SpongeBob Tower Defense mode demands and how to clear it."
+  },
+  "progression": {
+    "overviewTitle": "SpongeBob Tower Defense Progression",
+    "overviewDescription": "Gem farms, AFK rewards, quests, the Egg Hunt, and Prestige levels — the long-term SpongeBob Tower Defense progression systems."
+  },
+  "updates": {
+    "overviewTitle": "SpongeBob Tower Defense Updates & Events",
+    "overviewDescription": "The latest SpongeBob Tower Defense update notes, upcoming patches, new events, and how to tell real leaks from rumors."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -452,8 +486,8 @@
     "vvBuilder": "Unit Tier List",
     "beginnerGuide": "Beginner Guide",
     "raceGuides": "Unit Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Best Teams Guide",
+    "bossGuides": "Game Modes & Raids",
+    "buildGuide": "Trading & Values",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

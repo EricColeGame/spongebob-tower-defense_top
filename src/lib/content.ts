@@ -237,39 +237,65 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  codes: "Codes",
+  units: "Units & Tier Lists",
+  trading: "Trading & Values",
+  modes: "Game Modes",
+  progression: "Progression",
+  updates: "Updates & Events",
 };
 
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+// 西班牙语分组标题映射
+const GROUP_TITLES_ES: Record<string, string> = {
+  guide: "Primeros Pasos",
+  codes: "Códigos",
+  units: "Unidades y Tier List",
+  trading: "Intercambios y Valores",
+  modes: "Modos de Juego",
+  progression: "Progresión",
+  updates: "Actualizaciones y Eventos",
+};
+
+// 葡萄牙语（巴西）分组标题映射
+const GROUP_TITLES_PT_BR: Record<string, string> = {
+  guide: "Primeiros Passos",
+  codes: "Códigos",
+  units: "Unidades e Tier List",
+  trading: "Trocas e Valores",
+  modes: "Modos de Jogo",
+  progression: "Progressão",
+  updates: "Atualizações e Eventos",
+};
+
+// 印尼语分组标题映射
+const GROUP_TITLES_ID: Record<string, string> = {
+  guide: "Panduan Pemula",
+  codes: "Kode",
+  units: "Unit dan Tier List",
+  trading: "Perdagangan dan Nilai",
+  modes: "Mode Permainan",
+  progression: "Progresi",
+  updates: "Pembaruan dan Event",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
+  es: GROUP_TITLES_ES,
+  "pt-br": GROUP_TITLES_PT_BR,
+  id: GROUP_TITLES_ID,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
+  es: "Resumen",
+  "pt-br": "Visão Geral",
+  id: "Ringkasan",
 };
 
 // 分组排序顺序
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "codes", "units", "trading", "modes", "progression", "updates",
 ];
 
 /**
