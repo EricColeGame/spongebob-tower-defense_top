@@ -42,22 +42,22 @@
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn how a match works: place units on build spots along the enemy path, spend in-match cash on upgrades, and stop every wave from reaching your base."
         },
         {
           "number": "2",
           "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "description": "Push your account level quickly with the modes and routines that return the most XP per run in SpongeBob Tower Defense."
         },
         {
           "number": "3",
           "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "description": "Stack Gems and coins faster by farming the modes and stages that actually pay out for your current team."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in SpongeBob Tower Defense."
+          "title": "All Codes",
+          "description": "Redeem the latest SpongeBob Tower Defense codes for free Gems, crates, and summon currency before they expire."
         }
       ]
     },
@@ -65,237 +65,323 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Working Codes",
+        "Unit Tier List",
+        "Beginner Guide",
+        "Endless Mode"
       ],
       "cards": [
         {
           "badge": "Beginner",
           "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "description": "Everything you need from your first run to a reliable team and clean wave clears.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide"
         },
         {
           "badge": "Updated",
           "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "description": "All working SpongeBob Tower Defense codes with rewards — redeem them before they expire.",
+          "href": "/codes/spongebob-tower-defense-codes"
+        },
+        {
+          "badge": "Popular",
+          "title": "Unit Tier List",
+          "description": "Every Bikini Bottom unit ranked by role and strength for every stage of progression.",
+          "href": "/units/spongebob-tower-defense-tier-list"
+        },
+        {
+          "badge": "Popular",
+          "title": "Best Units",
+          "description": "The towers worth summoning and upgrading for bosses, swarms, and support.",
+          "href": "/units/spongebob-tower-defense-best-units"
+        },
+        {
+          "badge": "New",
+          "title": "All Units",
+          "description": "Full roster directory with rarities, attack types, and team roles.",
+          "href": "/units/spongebob-tower-defense-all-units"
+        },
+        {
+          "badge": "Popular",
+          "title": "Noob to Pro Guide",
+          "description": "A phase-by-phase progression roadmap from your first wave to endgame.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro"
+        },
+        {
+          "badge": "Popular",
+          "title": "Gem Farm Guide",
+          "description": "Repeatable routines for steady Gem income to fund every summon.",
+          "href": "/progression/spongebob-tower-defense-gem-farm"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
-        },
-        {
-          "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Endless Mode",
+          "description": "Best team roles, placement tactics, and upgrade priorities for deep runs.",
+          "href": "/modes/spongebob-tower-defense-endless-mode"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
-        },
-        {
-          "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
-        },
-        {
-          "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
-        },
-        {
-          "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
-        },
-        {
-          "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Update Guide",
+          "description": "Latest patch notes, new content, and what changed for team building.",
+          "href": "/updates/spongebob-tower-defense-update"
         }
       ]
     },
     "aboutGame": {
       "title": "What is SpongeBob Tower Defense?",
       "paragraphs": [
-        "SpongeBob Tower Defense is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "SpongeBob Tower Defense is a Roblox wave-defense game where you collect Bikini Bottom characters as units, drop them onto build spots along a fixed enemy path, and spend in-match cash to upgrade them before the waves reach your base. Every match feeds a longer collection loop: you summon new units between runs, then draw on that roster to build a stronger team for the next stage.",
+        "The game blends tower defense strategy with character collection. Story chapters hand you tuned waves and scripted boss fights, while Endless Mode keeps scaling enemies and rewards teams that cover damage, crowd control, economy, and support instead of stacking one role. Gems gate the biggest account upgrades, so farming and summoning decisions matter as much as placement inside any single run."
       ],
       "stats": [
-        {
-          "label": "Developer",
-          "value": "Nickelodeon"
-        },
         {
           "label": "Platform",
           "value": "Roblox"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Tower Defense"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Currency",
+          "value": "Gems & Coins"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Game Modes",
+          "value": "Story & Endless"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Unit Roles",
+          "value": "Damage, Support, Economy"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Live Content",
+          "value": "Quests, Raids & Events"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore SpongeBob Tower Defense Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Everything you need to clear more waves: working codes, unit tier lists, beginner walkthroughs, farming routes, and update notes for SpongeBob Tower Defense.",
       "modules": [
         {
           "order": 1,
-          "name": "SpongeBob Tower Defense Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
+          "name": "SpongeBob Tower Defense Codes",
+          "description": "Every working and expired SpongeBob Tower Defense code, what each reward gives you, and the redemption steps to claim free Gems and crates.",
           "href": "/codes/spongebob-tower-defense-codes",
-          "displayType": "code-box",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "BEGINNINGS2",
+              "detail": "New code — free rewards",
+              "badge": "New"
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "GetGudKid",
+              "detail": "New code — free rewards",
+              "badge": "New"
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "CHALLENGEWON",
+              "detail": "New code — free rewards",
+              "badge": "New"
+            },
+            {
+              "label": "QUESTS4LIFE",
+              "detail": "Working code — free rewards",
+              "badge": "Working"
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/spongebob-tower-defense-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "SpongeBob Tower Defense Tier List",
+          "description": "Rank every Bikini Bottom unit by overall strength, damage, range, and support value so you know which towers are worth summoning and upgrading.",
+          "href": "/units/spongebob-tower-defense-tier-list",
+          "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "S",
+              "detail": "Dominates nearly every mode — build your team around these units"
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "A",
+              "detail": "Excellent in most situations with only small weaknesses"
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "B",
+              "detail": "Solid and reliable, but needs support to shine"
+            },
+            {
+              "label": "C",
+              "detail": "Situational picks that shine on the right map"
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/spongebob-tower-defense-tier-list",
-          "displayType": "tier-grid",
+          "name": "SpongeBob Tower Defense Beginner Guide",
+          "description": "Learn the core tower defense loop — placing units, spending in-match cash on upgrades, and defending against tougher waves — with a step-by-step early-game path.",
+          "href": "/guide/spongebob-tower-defense-beginner-guide",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "1",
+              "detail": "Finish the opening stage and tutorial prompts to learn the controls"
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "2",
+              "detail": "Pick one main damage unit and commit your early upgrades to it"
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "3",
+              "detail": "Study the enemy path to find the strongest build spots"
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "4",
+              "detail": "Spend your first cash on one or two key upgrades"
+            },
+            {
+              "label": "5",
+              "detail": "Save for the first boss wave instead of overbuilding"
+            },
+            {
+              "label": "6",
+              "detail": "Use leftover summon currency after the run to grow your roster"
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/spongebob-tower-defense-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "SpongeBob Tower Defense Best Units",
+          "description": "Recommended units for early progression, boss encounters, crowd control, and support, with the upgrade priorities that make each pick work.",
+          "href": "/units/spongebob-tower-defense-best-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "Damage",
+              "detail": "Main damage dealers that handle bosses and tanky late waves"
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "Support",
+              "detail": "Buff units that raise the damage and range of nearby towers"
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "Economy",
+              "detail": "Money generators that fund every other upgrade in the run"
+            },
+            {
+              "label": "Control",
+              "detail": "Slows and stuns that keep enemies inside your kill zone"
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/spongebob-tower-defense-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "SpongeBob Tower Defense Units and Characters",
+          "description": "A full roster directory of Bikini Bottom characters used as units, covering their rarities, attack types, and roles in a team.",
+          "href": "/units/spongebob-tower-defense-all-units",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Rarity",
+              "detail": "Common, Rare, Epic, Legendary, Mythic, and Secret unit tiers"
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Roles",
+              "detail": "Single-target, area damage, crowd control, economy, and support"
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Attack",
+              "detail": "Melee, ranged, and hybrid attack types across the roster"
+            },
+            {
+              "label": "Roster",
+              "detail": "SpongeBob, Patrick, Sandy, Squidward, Plankton, and more"
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/spongebob-tower-defense-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "SpongeBob Tower Defense Progression Guide",
+          "description": "How to earn resources, level up units, and grow your team strength through early, mid, and late-game content.",
+          "href": "/guide/spongebob-tower-defense-noob-to-pro",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "1",
+              "detail": "Clear story chapters to unlock modes, units, and starter rewards"
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "2",
+              "detail": "Build a Gem farm routine so summoning never stalls"
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "3",
+              "detail": "Level and upgrade one core unit before spreading resources"
+            },
+            {
+              "label": "4",
+              "detail": "Roll for traits that multiply your best towers' output"
+            },
+            {
+              "label": "5",
+              "detail": "Prestige to reset progress for permanent account bonuses"
+            },
+            {
+              "label": "6",
+              "detail": "Tackle raids, boss battles, and events for endgame rewards"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "SpongeBob Tower Defense Game Modes",
+          "description": "Compare Story Mode, Endless Mode, raids, and special challenges to see what each one rewards and which fits your current team.",
+          "href": "/modes/spongebob-tower-defense-endless-mode",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Story",
+              "detail": "Fixed chapters with hand-tuned waves and scripted boss fights"
+            },
+            {
+              "label": "Endless",
+              "detail": "Open-ended runs where enemy stats keep scaling with depth"
+            },
+            {
+              "label": "Raids",
+              "detail": "Co-op style challenges, including the Davy Jones raid"
+            },
+            {
+              "label": "Rogue",
+              "detail": "Run-based mode that tests fresh builds with limited picks"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "SpongeBob Tower Defense Updates and Events",
+          "description": "Track official patches, new units, balance changes, and limited-time events, and see how each update shifts team building.",
+          "href": "/updates/spongebob-tower-defense-update",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Patches",
+              "detail": "Patch notes with balance changes to units and modes"
+            },
+            {
+              "label": "New Units",
+              "detail": "Fresh towers and banners added in recent updates"
+            },
+            {
+              "label": "Events",
+              "detail": "Limited-time event rewards like the Egg Hunt"
+            },
+            {
+              "label": "Codes",
+              "detail": "New redeem codes released alongside updates"
             }
           ]
         }
@@ -307,23 +393,23 @@
       "items": [
         {
           "question": "What is SpongeBob Tower Defense?",
-          "answer": "SpongeBob Tower Defense is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "answer": "SpongeBob Tower Defense is a Roblox wave-defense game where you collect Bikini Bottom characters as units, place them on build spots along a fixed enemy path, and upgrade them with in-match cash to stop every wave from reaching your base. Between runs you summon new units to build a stronger roster."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "How do I redeem SpongeBob Tower Defense codes?",
+          "answer": "Reach Level 10, open the Codes button on the left side of the screen, and paste a code into the Enter Code Here box. SpongeBob Tower Defense codes are case-sensitive, so copy them exactly as published."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Which units should beginners use in SpongeBob Tower Defense?",
+          "answer": "Start with one reliable main damage unit and upgrade it before spreading cash across the whole board. Add economy and crowd-control units once your core damage is stable, then fill the remaining build spots with support."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "What is the best way to farm Gems in SpongeBob Tower Defense?",
+          "answer": "Stack repeatable sources instead of chasing one stage. Clear story chapters for first-time rewards, run efficient modes for steady income, and redeem SpongeBob Tower Defense codes for free Gems and crates."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is there an Endless Mode in SpongeBob Tower Defense?",
+          "answer": "Yes. Endless Mode keeps spawning waves with continuously scaling enemy stats, so it rewards teams that cover damage, crowd control, economy, and support rather than stacking a single role."
         }
       ]
     },
